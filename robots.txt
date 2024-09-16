@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cangutic.github.io/sitemap.html.gz
+Sitemap: https://cangutic.github.io/app/sitemap.html.gz
+Sitemap: https://cangutic.github.io/assets/sitemap.html.gz
+Sitemap: https://cangutic.github.io/css/sitemap.html.gz
+Sitemap: https://cangutic.github.io/includes/sitemap.html.gz
+Sitemap: https://cangutic.github.io/item/sitemap.html.gz
+Sitemap: https://cangutic.github.io/src/sitemap.html.gz
